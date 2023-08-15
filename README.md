@@ -16,5 +16,5 @@ Visa Platinum 7000 79** **** 6361 -> Счет **9638\
 ## Запуск: 
 
 ```console
-foo@bar:~$ python3 main.py
+~$ python3 main.py
 ```
